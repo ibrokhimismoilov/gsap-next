@@ -21,7 +21,7 @@ function Awards() {
           <div className="my-28">
             <div className="text-sm md:text-xl">(our goal)</div>
             <div className="text-2xl sm:text-3xl md:text-5xl font-bold leading-snug indent-[25vw] my-2">
-              “Dreams do not come true just because you dream them. It's hard work that makes things happen. It's hard work that creates change.”           </div>
+              “Dreams do not come true just because you dream them. It&apos;s hard work that makes things happen. It&apos;s hard work that creates change.”           </div>
           </div>
         </div>
       </div>
