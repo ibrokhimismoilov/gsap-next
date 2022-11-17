@@ -1,0 +1,3 @@
+const MOBILE_DEVISE_SIZE = 768;
+
+export { MOBILE_DEVISE_SIZE };
